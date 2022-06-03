@@ -1,1 +1,1 @@
-#https://SafeAreaView.github.io/rsschool-cv/cv
+# https://SafeAreaView.github.io/rsschool-cv/cv
